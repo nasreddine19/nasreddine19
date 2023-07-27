@@ -7,7 +7,7 @@
 
 ## About Me
 
-Hello there! 👨‍💻 I'm Nasreddine Boudellal, a passionate Front End Developer with 4 years of experience in the industry. I love crafting engaging and user-friendly web experiences that make a positive impact. From building simple and intuitive portfolios to creating interactive quiz apps and useful todo lists, I enjoy every aspect of web development.
+Hello there! 👨‍💻 I'm Nasreddine Boudellal, a passionate Front End Developer with 4 years of experience in the industry. I love crafting engaging and user-friendly web experiences that make a positive impact. From building simple and intuitive portfolios to creating interactive web applications, I enjoy every aspect of web development.
 
 With a keen eye for design and a passion for creating seamless user experiences, I take pride in building responsive and accessible web applications that delight users across devices. 🌐💻
 
