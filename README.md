@@ -1,6 +1,6 @@
 <!-- Add a Header Image -->
 <p align="center">
-  <img src="[header_image.jpg](https://www8.0zz0.com/2023/07/27/08/362862879.jpeg)" alt="Header Image">
+  <img src="https://www8.0zz0.com/2023/07/27/08/362862879.jpeg" alt="Header Image">
 </p>
 
 <h1 align="center">👋 Welcome to My GitHub Profile! 🚀</h1>
