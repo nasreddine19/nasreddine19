@@ -20,6 +20,7 @@ As a Front End Developer, here are some of the technologies I work with:
   <img src="logos/html5.png" alt="HTML5 Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
   <img src="logos/css3.png" alt="CSS3 Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
   <img src="logos/js.png" alt="JavaScript Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="logos/ts.png" alt="TypeScript Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
   <img src="logos/git.png" alt="Git Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
   <img src="logos/react.png" alt="React.js Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
   <img src="logos/nextjs.png" alt="Next.js Logo" width="50" height="50">
