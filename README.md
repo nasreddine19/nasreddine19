@@ -24,7 +24,7 @@ As a Front End Developer, here are some of the technologies and tools I work wit
   <img src="logos/git.png" alt="Git Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
   <img src="logos/react.png" alt="React.js Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
   <img src="logos/nextjs.png" alt="Next.js Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
-  <img src="logos/tailwind-css.png" alt="Tailwind-CSS Logo" width="100" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="logos/tailwind-css.png" alt="Tailwind-CSS Logo" width="80" height="50">&nbsp;&nbsp;&nbsp;
   <img src="logos/emailjs.png" alt="EmailJS Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
   <img src="logos/adobe-photoshop.png" alt="Adobe-Photoshop Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
   <img src="logos/adobe-Illustrator-CC.png" alt="Adobe-Illustrator-CC Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
