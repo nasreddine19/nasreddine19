@@ -12,9 +12,9 @@ Hello there! 👨‍💻 I'm Nasreddine Boudellal, a passionate Front End Develo
 
 With a keen eye for design and a passion for creating seamless user experiences, I take pride in building responsive and accessible web applications that delight users across devices. 🌐💻
 
-## Technologies I Use
+## Technologies and Tools I Use
 
-As a Front End Developer, here are some of the technologies I work with:
+As a Front End Developer, here are some of the technologies and tools I work with:
 
 <div align="center">
   <img src="logos/html5.png" alt="HTML5 Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
@@ -23,7 +23,12 @@ As a Front End Developer, here are some of the technologies I work with:
   <img src="logos/ts.png" alt="TypeScript Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
   <img src="logos/git.png" alt="Git Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
   <img src="logos/react.png" alt="React.js Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
-  <img src="logos/nextjs.png" alt="Next.js Logo" width="50" height="50">
+  <img src="logos/nextjs.png" alt="Next.js Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="logos/tailwind-css.png" alt="Next.js Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="logos/emailjs.png" alt="Next.js Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="logos/adobe-photoshop.png" alt="Next.js Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="logos/adobe-Illustrator-CC.png" alt="Next.js Logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
+  <img src="logos/figma.png" alt="Next.js Logo" width="50" height="50">
 </div>
 
 ## My GitHub Projects
