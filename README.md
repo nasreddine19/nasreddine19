@@ -39,13 +39,13 @@ Feel free to explore some of the projects I've worked on:
    "Quiz App" is a web application where users can answer questions by choosing the category, difficulty, and number of questions. It's a fun way to test your knowledge! The app is built using React.js and leverages external APIs to fetch quiz questions. It also utilizes the "react-router-dom" library for smooth navigation between different sections of the app.
 
    [Quiz App Repository](https://github.com/nasreddine19/Quiz-app)
-
+<!--
 2. **My Portfolio** 📂
    This is my personal portfolio, showcasing my skills, projects, and experiences as a Front End Developer. My portfolio is built using React.js, making it fully interactive and responsive. It also features icons from "react-icons" for visual elements.
 
-   [My Portfolio Repository](https://github.com/nasreddine19/my-portfolio)
+   [My Portfolio Repository](https://github.com/nasreddine19/my-portfolio)-->
 
-3. **Todo List** ✅
+2. **Todo List** ✅
    A simple yet effective todo list application to keep track of your tasks and stay organized. This app is built using Snowpack and TypeScript, providing a fast and efficient development workflow.
 
    [Todo List Repository](https://github.com/nasreddine19/Todo-List)
