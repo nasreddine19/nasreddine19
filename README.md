@@ -4,7 +4,9 @@
   <img src="https://www12.0zz0.com/2023/07/27/08/312609497.jpg" alt="Header Image" width="530" height="720">
 </p>
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1000&width=641&height=60&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!+%F0%9F%9A%80)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1000&width=641&height=60&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!+%F0%9F%9A%80)](https://git.io/typing-svg)
+</div>
 
 <!-- 
 <h1 align="center">👋 Welcome to My GitHub Profile! 🚀</h1> -->
