@@ -5,8 +5,11 @@
 </p>
 -->
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1000&width=641&height=60&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!+%F0%9F%9A%80)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1000&width=641&height=60&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </div>
+
 
 <!-- 
 <h1 align="center">👋 Welcome to My GitHub Profile! 🚀</h1> -->
