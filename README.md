@@ -62,6 +62,5 @@ I'm always open to connecting with fellow developers, sharing knowledge, and col
 
 - **Email:** [ns.boudellal@gmail.com](mailto:ns.boudellal@gmail.com) 📧
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nasreddine-boudellal-2654b2285/) 💼
-- **Twitter:** [@nasro_boudellal](https://twitter.com/nasro_boudellal) 🐦
 
 Looking forward to connecting with you! Let's make the web a better place together! 🌈
