@@ -16,9 +16,7 @@
 
 ## About Me
 
-Hello there! 👨‍💻 I'm Nasreddine Boudellal, a passionate Front End Developer with 4 years of experience in the industry. I love crafting engaging and user-friendly web experiences that make a positive impact. From building simple and intuitive portfolios to creating interactive web applications, I enjoy every aspect of web development.
-
-With a keen eye for design and a passion for creating seamless user experiences, I take pride in building responsive and accessible web applications that delight users across devices. 🌐💻
+Passionate, about front end development I have a background in JavaScript, Next.js and React.js. With certification, in JavaScript algorithms and data structures my commitment lies in crafting scalable web applications. I strive to enhance my abilities while actively participating in cutting edge tech projects.
 
 ## Technologies and Tools I Use
 
